@@ -28,7 +28,7 @@
   * kobert 학습할 때 법률 구조 공단의 상담 데이터를 사용하였고, 판례 데이터도 이와 맞추기 위해 법률 구조 공단의 카테고리를 이용하여 판례를 불러왔다.
   * kobart 학습할 때 ai 허브의 요약문 및 레포트 생성 데이터를 사용하였다.
 * 판례 추천 화면
-  ![alt text](image-2.png)
+  ![Image](https://github.com/user-attachments/assets/34b0f466-0e97-4a30-97b6-a4250056a466)
 
 ## 파일 설명
 * data.ipynb： 판례 데이터와 민법 데이터 저장
